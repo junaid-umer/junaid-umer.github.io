@@ -40,7 +40,6 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  /* color: #ffc200 !important; */
   color: #00a0da !important;
 }
 
