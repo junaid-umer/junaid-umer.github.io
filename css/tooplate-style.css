@@ -40,7 +40,8 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #ffc200 !important;
+  /* color: #ffc200 !important; */
+  color: #00a0da !important;
 }
 
 .navbar-brand .uil {
@@ -92,14 +93,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #ffc200;
+  color: #00a0da;
 }
 .custom-btn.custom-btn-bg {
   background: #474559;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #00a0da;
   color: #ffffff !important;
 }
 
@@ -111,12 +112,12 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 260px;
+  min-width: 325px;
   position: relative;
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #00a0da;
 }
 
 .animated-item {
@@ -214,7 +215,7 @@ b, strong {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #00a0da;
   font-weight: bold;
 }
 .navbar-light .navbar-nav .nav-link:focus span,
@@ -296,7 +297,7 @@ b, strong {
   color: rgba(255, 255, 255, 0.8);
 }
 .dark-mode .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #00a0da;
 }
 .dark-mode .navbar[class*="headroom--not-top"] {
   background: #0c0c0d;
@@ -398,7 +399,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #ffc200;
+  color: #00a0da;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
@@ -430,10 +431,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #00a0da;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background: #00a0da;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
@@ -462,7 +463,7 @@ b, strong {
   margin: 5px 0;
 }
 .social-links .uil:hover {
-  color: #ffc200;
+  color: #00a0da;
 }
 
 @media (min-width: 1270px) {
