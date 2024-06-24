@@ -111,7 +111,7 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 487px;
+  min-width: 430px;
   position: relative;
 }
 
@@ -120,7 +120,7 @@ b, strong {
 }
 
 .animated-item {
-  font-size: 38px;
+  font-size: 33px;
   line-height: inherit;
   display: block;
   opacity: 0;
