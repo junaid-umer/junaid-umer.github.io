@@ -14,7 +14,7 @@ body {
 }
 
 .full-screen {
-  padding: 8rem 0;
+  padding: 4rem 0;
 }
 
 .small-text {
@@ -111,7 +111,7 @@ b, strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 325px;
+  min-width: 487px;
   position: relative;
 }
 
@@ -518,7 +518,7 @@ b, strong {
 }
 @media (max-width: 580px) {
 	.animated-info {
-		min-width: 200px;
+		min-width: 100%;
 	}
   .animated-item {
     font-size: 30px;
